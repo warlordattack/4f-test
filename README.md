@@ -48,6 +48,7 @@ If you'd like to quote someone, use the > character before the line:
 
 > Citation L1
 > Citation L2
+> Citation L3
 
 ==================
 
