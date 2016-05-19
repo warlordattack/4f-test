@@ -5,7 +5,7 @@ Projet test GitHub pour 4f !
 ==================
 Ok changement pour v7 : fait :)
 
-==================
+-==================
 Bold : **bold**
 Italic : *italic* with Markdown.
 Link : [Google !](http://google.com).
